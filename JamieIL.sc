@@ -1,6 +1,6 @@
 JamieIL{
 
-	*smartphoneSoundscapes{
+	*visuals{
 		|processingPort=9003|
 		var processing = NetAddr.new("127.0.0.1", processingPort);
 		var r=255;
